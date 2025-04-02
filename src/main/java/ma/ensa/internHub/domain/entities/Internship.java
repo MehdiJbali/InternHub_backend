@@ -70,4 +70,6 @@ public class Internship {
     private boolean negotiable;
     private boolean remunerated;
 
+
+
 }
